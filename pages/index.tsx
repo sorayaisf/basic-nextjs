@@ -8,8 +8,10 @@ export default function Home() {
   return (
     <>
       <Layout pageTitle="Home Page">
-        <Image src="/favicon.ico" width={200} height={200} alt="profile"/>
-        <h1 className={styles.titlehomepage}>Welcome Home</h1>
+        <div className={styles.image}>
+        <Image src="/favicon.ico" width={100} height={100} alt="profile"/>
+        </div>
+        <h1 className={styles.titlehomepage}>Welcome to My Portfolio</h1>
       </Layout>
 
 

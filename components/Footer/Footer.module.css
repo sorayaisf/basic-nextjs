@@ -1,4 +1,9 @@
 .title{
     text-align: center;
-    color: lightblue;
+    color: rgb(179, 221, 235);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
 }
