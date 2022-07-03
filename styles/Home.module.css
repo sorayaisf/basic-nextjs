@@ -7,6 +7,15 @@
   text-align: center;
 }
 
+.home{
+  background-color: #F5F0BB;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   overflow: hidden;
+  
+}
+
 .image{
   margin: 32px auto;
   box-sizing: content-box;
